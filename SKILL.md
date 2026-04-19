@@ -1,5 +1,5 @@
 ---
-name: "git_report"
+name: "git-log-summary"
 description: "Summarize git log into per-person daily/weekly work reports and send to a Feishu bot webhook. Invoke when user asks for Git commit report/日报/周报/月报 from a given repo path and time range."
 disable-model-invocation: true
 ---
